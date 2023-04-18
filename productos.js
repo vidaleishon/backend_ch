@@ -1,0 +1,1 @@
+[{name:"Penthouse Rondeau",precio:20000},{name:"Departamento Pueyrredon", precio:14000},{name:"Departamento Allegro", precio:10000},{name:"Departamento Poeta", precio:12000}]
